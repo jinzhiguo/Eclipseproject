@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+.bdlogin{
+	background-color:#1c77ac; 
+	background-image:url(../images/light.png); 
+	background-repeat:no-repeat; 
+	background-position:center top; 
+	overflow:hidden;
+}
